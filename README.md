@@ -1,2 +1,2 @@
 # VandyPool
-# Jack Walton, William Shelton, Ryan Joyce
+Jack Walton, William Shelton, Ryan Joyce
