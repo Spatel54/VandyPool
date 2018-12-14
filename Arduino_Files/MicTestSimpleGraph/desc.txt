@@ -1,0 +1,3 @@
+MicTestSimpleGraph
+prints the value of analog0 to serial out. 
+When serial plotter is used, the audio will be graphed through serial. 
